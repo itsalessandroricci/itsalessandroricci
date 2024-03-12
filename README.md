@@ -32,9 +32,9 @@ I'm passionate about Space 🪐, Natural Sciences 🌻 and Theater 🎭
 
 I'm always open to new collaboration opportunities and interesting discussions! You can reach out to me via:
 
-- Email: [alessandro.ricci.rcc@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/itsalessandroricci/]
-- Instagram: [https://www.instagram.com/itsalessandroricci/]
+- Email: [alessandro.ricci.rcc@gmail.com](mailto:alessandro.ricci.rcc@gmail.com)
+- LinkedIn: [Alessandro Ricci](https://www.linkedin.com/in/itsalessandroricci/)
+- Instagram: [@itsalessandroricci](https://www.instagram.com/itsalessandroricci/)
 
 I look forward to connecting!
 
