@@ -37,7 +37,3 @@ I'm always open to new collaboration opportunities and interesting discussions! 
 - Instagram: [@itsalessandroricci](https://www.instagram.com/itsalessandroricci/)
 
 I look forward to connecting!
-
-## 📊 Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsalessandroricci&show_icons=true&theme=ambient_gradient)
