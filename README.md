@@ -38,7 +38,9 @@ I'm passionate about Space 🪐, Natural Sciences 🌻 and Theater 🎭
 
 ## 💬 Get in Touch
 
-I'm always open to new collaboration opportunities and interesting discussions! You can reach out to me via:
+I'm always open to new collaboration opportunities and interesting discussions! 
+<br>
+You can reach out to me via:
 
 <div align="left">
    <a href="mailto:alessandro.ricci.rcc@gmail.com">
@@ -49,5 +51,4 @@ I'm always open to new collaboration opportunities and interesting discussions! 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
 I look forward to connecting!
