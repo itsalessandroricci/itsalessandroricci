@@ -33,9 +33,6 @@ Skilled in Swift, C#, Python, HTML, CSS, and JavaScript. Passionate about creati
 - Python (self-taught 💻) 
 - Game Making with Unity (in my free time 🎮)
 
-## ⚡ Fun Facts
-I'm passionate about Space 🪐, Natural Sciences 🌻 and Theater 🎭
-
 ## 💬 Get in Touch
 
 I'm always open to new collaboration opportunities and interesting discussions! 
